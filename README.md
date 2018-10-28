@@ -7,7 +7,7 @@
 
 测试结果：
 
-  Reading checkpoints ...
+Reading checkpoints ...
   
 Loading success, global_step is 199
 
